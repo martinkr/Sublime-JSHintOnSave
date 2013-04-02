@@ -1,0 +1,8 @@
+{
+
+	"pathGrowlNotify": "/usr/local/bin/growlnotify",
+	"pathNode": "/usr/local/bin/node",
+	"pathJSHint": "/usr/local/bin/jshint",
+
+	"show_notification_on_save": true
+}
